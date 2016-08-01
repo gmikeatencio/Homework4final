@@ -1,4 +1,4 @@
------------------------------------------
+--------------------------------------------
 # The Coding Bootcamp at UT Austin
 
 #### July 2016 TR - Cohort Curriculum Syllabus
@@ -48,7 +48,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	---	|	---:	|	---:			|	---:			|	:---:	|
 |	Kickoff     	|	1.1	|	Mon<br	>	July 25, 2016	|	Tue<br	>	July 26, 2016	|	[Josh's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a9079a68-2595-483d-b88f-c38578ddaa48)	|
 |	HTML & CSS Intro     	|	1.2	|	Wed<br	>	July 27, 2016	|	Thu<br	>	July 28, 2016	|	[Josh's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=75410293-f79f-4ad9-a8fc-65aa80f365f7)	|
-|	HTML CSS Git     	|	1.3	|	Sat<br	>	July 30, 2016	|	Sat<br	>	July 30, 2016	|		|
+|	HTML CSS Git     	|	1.3	|	Sat<br	>	July 30, 2016	|	Sat<br	>	July 30, 2016	|	[Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2dd9f9f4-3613-467a-b371-c20d2dec0744)	|
 |	Review + Git Branching & Heroku    	|	2.1	|	Mon<br	>	August 1, 2016	|	Tue<br	>	August 2, 2016	| 		|
 |	Branching & Bootstrap     	|	2.2	|	Wed<br	>	August 3, 2016	|	Thu<br	>	August 4, 2016	|		|
 |	Bootstrap Continued     	|	2.3	|	Sat<br	>	August 6, 2016	|	Sat<br	>	August 6, 2016	|		|
