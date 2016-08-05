@@ -50,7 +50,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	HTML & CSS Intro     	|	1.2	|	Wed<br	>	July 27, 2016	|	Thu<br	>	July 28, 2016	|	[Josh's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=75410293-f79f-4ad9-a8fc-65aa80f365f7)	[Gerald's Class] (https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79cb97d2-68ee-4c79-b061-f6737dd7416b)|
 |	HTML CSS Git     	|	1.3	|	Sat<br	>	July 30, 2016	|	Sat<br	>	July 30, 2016	|	[Josh's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2dd9f9f4-3613-467a-b371-c20d2dec0744) [Gerald's Class] (https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d296449e-025b-4194-896c-84c219be66bc)	|
 |	Review + Git Branching & Heroku    	|	2.1	|	Mon<br	>	August 1, 2016	|	Tue<br	>	August 2, 2016	| 	[Gerald's Class] (https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12ef18e4-a1ef-434a-8dab-1b8e463fd7c0)	|
-|	Branching & Bootstrap     	|	2.2	|	Wed<br	>	August 3, 2016	|	Thu<br	>	August 4, 2016	|		|
+|	Branching & Bootstrap     	|	2.2	|	Wed<br	>	August 3, 2016	|	Thu<br	>	August 4, 2016	| [Gerald's Class]	(https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e7079c1-5d83-4421-8950-0ab44e9ff8e7)	|
 |	Bootstrap Continued     	|	2.3	|	Sat<br	>	August 6, 2016	|	Sat<br	>	August 6, 2016	|		|
 |	Intro to JavaScript     	|	3.1	|	Mon<br	>	August 8, 2016	|	Tue<br	>	August 9, 2016	| 		|
 |	Arrays Loops RPS Breakpoints     	|	3.2	|	Wed<br	>	August 10, 2016	|	Thu<br	>	August 11, 2016	|		|
