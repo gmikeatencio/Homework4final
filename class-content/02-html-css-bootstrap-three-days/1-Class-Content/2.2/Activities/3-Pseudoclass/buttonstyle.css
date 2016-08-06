@@ -3,15 +3,15 @@
  **
 
 /* Normal Element Rule */
-a{
+button{
 	font-size: 64px;
 }
 
-/* Hover Pseudo Class: 
-	 	Changes the style only when mouse hovers 
+/* Hover Pseudo Class:
+	 	Changes the style only when mouse hovers
 	 	over the preceding element.
 */
-a:hover{
+button:hover{
 	background-color: red;
 }
 
@@ -20,17 +20,17 @@ a:hover{
 		gives the element focus
 		(in this case, after the link is clicked).
 */
-a:focus{
+button:focus{
 	background-color: orange;
 }
 
 /* Active Pseudo Class
 		Changes the style only while the user
-		clicks down on an element. This style ceases 
+		clicks down on an element. This style ceases
 		when the user releases their click.
 */
-a:active{
-	background-color: black;
+button:visited{
+	background-color: white;
 }
 
 
