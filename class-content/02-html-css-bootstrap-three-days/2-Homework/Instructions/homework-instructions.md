@@ -63,6 +63,9 @@ For this assignment, we're giving you two options. The first is recommended but 
 2. Install the Bootstrap theme and add your portfolio content.
   * Be sure to leave space for your future projects. 
 
+
+After compleing either option follow the following steps to deploy to heroku:
+
 3. Create the `index.php` and `composer.json` inside `assignment2`
   * Make sure you have `<?php include_once("yourFileNameHere"); ?>` and `{}` for those files.
 
