@@ -44,9 +44,15 @@ You will be fully capable of doing this homework by the end of Saturday's class.
 5. **Protip**: Use the Chrome extensions [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) and [Browser Width](https://chrome.google.com/webstore/detail/browser-width/mlnegepkjlccabakompdmbcmdieaideh) to see the browser dimensions in Chrome.*
 
 ### Assignment Two Instructions (Bootstrap)
-1. Create an `assignment2` repo on GitHub and clone it to your computer. Inside your cloned repo, create `index.html`, `portfolio.html` and `contact.html`.
+For this assignment, we're giving you two options. The first is recommended but the latter may be more exciting for those of you looking to implement a cool theme you find online.
 
-2. Find a Bootstrap theme that you like (or make your own!). There are plenty of free options available, or you can pay for one if you choose. Here are a few site where you can find themes.
+1. Inside your `assignment2` folder, create `style.css`, `index.html`, `portfolio.html`, and `contact.html`.
+
+2. Using Boostrap compononents and css, recreate your first homework assignment.
+
+- OR
+
+1. Find a Bootstrap theme that you like (or make your own!). There are plenty of free options available, or you can pay for one if you choose. Here are a few site where you can find themes.
   * [Wrap Bootstrap](https://wrapbootstrap.com/themes/portfolios)
   * [Boots Watch](https://bootswatch.com/)
   * [Start Bootstrap](http://startbootstrap.com/template-categories/portfolios/)
@@ -54,13 +60,13 @@ You will be fully capable of doing this homework by the end of Saturday's class.
   * [Bootstrap Skins](https://www.bootstrapskins.com/)
   * [Blacktie](http://blacktie.co/tag/portfolio/)
 
-3. Install the Bootstrap theme and add your portfolio content.
+2. Install the Bootstrap theme and add your portfolio content.
   * Be sure to leave space for your future projects. 
 
-4. Create the `index.php` and `composer.json` inside `assignment2`
+3. Create the `index.php` and `composer.json` inside `assignment2`
   * Make sure you have `<?php include_once("yourFileNameHere"); ?>` and `{}` for those files.
 
-5. Deploy your new Bootstrap-powered portfolio to Heroku. Remember:
+4. Deploy your new Bootstrap-powered portfolio to Heroku. Remember:
   * `heroku login`
   * `heroku create`
   * `git push heroku master`
